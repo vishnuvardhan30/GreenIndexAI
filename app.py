@@ -40,4 +40,5 @@ def query_ndvi():
         return jsonify({"error": "No data found"}), 404
 
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+
+    app.run()
