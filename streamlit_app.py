@@ -109,7 +109,7 @@ with right:
                                 "month": month,
                                 "year": year,
                             }
-                            res = requests.post("http://127.0.0.1:5000/query", json=payload)
+                            res = requests.post("https://greenindexai.onrender.com/query", json=payload)
                             if res.status_code == 200:
                                 api_data = res.json()
                                 if "ndvi_url" in api_data:
@@ -212,4 +212,5 @@ with left:
                         })
                         st.rerun()
                 except Exception as e:
+
                     st.error(f"❌ AI Agent2 Error: {e}")
