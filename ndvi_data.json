@@ -7,7 +7,7 @@
     "temperature": 22.96,
     "rainfall": 1.38,
     "soilmoisture": 0.197,
-    "ndvi_value": 0.52
+    "ndvi_value": 0.5233
   },
   {
     "id": 2,
@@ -15,8 +15,8 @@
     "month": "January",
     "state": "arunachalpradesh",
     "temperature": 12.54,
-    "rainfall": 51.80,
-    "soilmoisture": 0.33,
+    "rainfall": 51.82,
+    "soilmoisture": 0.331,
     "ndvi_value": 0.7366
   },
   {
@@ -25,8 +25,8 @@
     "month": "January",
     "state": "assam",
     "temperature": 17.84,
-    "rainfall": 17.52,
-    "soilmoisture": 0.24,
+    "rainfall": 17.55,
+    "soilmoisture": 0.249,
     "ndvi_value": 0.5351
   },
   {
@@ -34,9 +34,239 @@
     "year": 2025,
     "month": "January",
     "state": "bihar",
-    "temperature": 16.50,
-    "rainfall": 0.58,
-    "soilmoisture": 0.15,
-    "ndvi_value": 0.5100
+    "temperature": 16.5,
+    "rainfall": 0.59,
+    "soilmoisture": 0.147,
+    "ndvi_value": 0.51
+  },
+  {
+    "id": 5,
+    "year": 2025,
+    "month": "January",
+    "state": "chhattisgarh",
+    "temperature": 19.81,
+    "rainfall": 0.11,
+    "soilmoisture": 0.149,
+    "ndvi_value": 0.506
+  },
+  {
+    "id": 6,
+    "year": 2025,
+    "month": "January",
+    "state": "goa",
+    "temperature": 25.95,
+    "rainfall": 0.07,
+    "soilmoisture": 0.155,
+    "ndvi_value": 0.6759
+  },
+  {
+    "id": 7,
+    "year": 2025,
+    "month": "January",
+    "state": "gujarat",
+    "temperature": 20.97,
+    "rainfall": 0.11,
+    "soilmoisture": 0.147,
+    "ndvi_value": 0.4613
+  },
+  {
+    "id": 8,
+    "year": 2025,
+    "month": "January",
+    "state": "haryana",
+    "temperature": 13.36,
+    "rainfall": 16.81,
+    "soilmoisture": 0.23,
+    "ndvi_value": 0.659
+  },
+  {
+    "id": 9,
+    "year": 2025,
+    "month": "January",
+    "state": "himachalpradesh",
+    "temperature": -5.44,
+    "rainfall": 45.02,
+    "soilmoisture": 0.255,
+    "ndvi_value": 0.279
+  },
+  {
+    "id": 10,
+    "year": 2025,
+    "month": "January",
+    "state": "jharkhand",
+    "temperature": 16.68,
+    "rainfall": 0.19,
+    "soilmoisture": 0.156,
+    "ndvi_value": 0.4704
+  },
+  {
+    "id": 11,
+    "year": 2025,
+    "month": "January",
+    "state": "karnataka",
+    "temperature": 22.6,
+    "rainfall": 1.77,
+    "soilmoisture": 0.211,
+    "ndvi_value": 0.5067
+  },
+  {
+    "id": 12,
+    "year": 2025,
+    "month": "January",
+    "state": "kerala",
+    "temperature": 24.87,
+    "rainfall": 30.43,
+    "soilmoisture": 0.295,
+    "ndvi_value": 0.7401
+  },
+  {
+    "id": 13,
+    "year": 2025,
+    "month": "January",
+    "state": "madhyapradesh",
+    "temperature": 17.72,
+    "rainfall": 2.56,
+    "soilmoisture": 0.236,
+    "ndvi_value": 0.5955
+  },
+  {
+    "id": 14,
+    "year": 2025,
+    "month": "January",
+    "state": "maharashtra",
+    "temperature": 22.86,
+    "rainfall": 0.37,
+    "soilmoisture": 0.196,
+    "ndvi_value": 0.4854
+  },
+  {
+    "id": 15,
+    "year": 2025,
+    "month": "January",
+    "state": "manipur",
+    "temperature": 14.22,
+    "rainfall": 4.53,
+    "soilmoisture": 0.225,
+    "ndvi_value": 0.7484
+  },
+  {
+    "id": 16,
+    "year": 2025,
+    "month": "January",
+    "state": "meghalaya",
+    "temperature": 15.78,
+    "rainfall": 9.67,
+    "soilmoisture": 0.257,
+    "ndvi_value": 0.6773
+  },
+  {
+    "id": 17,
+    "year": 2025,
+    "month": "January",
+    "state": "mizoram",
+    "temperature": 16.56,
+    "rainfall": 1.47,
+    "soilmoisture": 0.165,
+    "ndvi_value": 0.8099
+  },
+  {
+    "id": 18,
+    "year": 2025,
+    "month": "January",
+    "state": "nagaland",
+    "temperature": 14.02,
+    "rainfall": 14.89,
+    "soilmoisture": 0.294,
+    "ndvi_value": 0.7499
+  },
+  {
+    "id": 19,
+    "year": 2025,
+    "month": "January",
+    "state": "odisha",
+    "temperature": 20.26,
+    "rainfall": 0.27,
+    "soilmoisture": 0.191,
+    "ndvi_value": 0.5401
+  },
+  {
+    "id": 20,
+    "year": 2025,
+    "month": "January",
+    "state": "punjab",
+    "temperature": 12.76,
+    "rainfall": 13.09,
+    "soilmoisture": 0.221,
+    "ndvi_value": 0.679
+  },
+  {
+    "id": 21,
+    "year": 2025,
+    "month": "January",
+    "state": "rajasthan",
+    "temperature": 16.14,
+    "rainfall": 6.46,
+    "soilmoisture": 0.127,
+    "ndvi_value": 0.382
+  },
+  {
+    "id": 22,
+    "year": 2025,
+    "month": "January",
+    "state": "sikkim",
+    "temperature": 1.08,
+    "rainfall": 145.48,
+    "soilmoisture": 0.336,
+    "ndvi_value": 0.4422
+  },
+  {
+    "id": 23,
+    "year": 2025,
+    "month": "January",
+    "state": "tamilnadu",
+    "temperature": 23.31,
+    "rainfall": 31.14,
+    "soilmoisture": 0.280,
+    "ndvi_value": 0.6284
+  },
+  {
+    "id": 24,
+    "year": 2025,
+    "month": "January",
+    "state": "tripura",
+    "temperature": 19.37,
+    "rainfall": 3.95,
+    "soilmoisture": 0.189,
+    "ndvi_value": 0.6415
+  },
+  {
+    "id": 25,
+    "year": 2025,
+    "month": "January",
+    "state": "uttarpradesh",
+    "temperature": 14.93,
+    "rainfall": 4.97,
+    "soilmoisture": 0.191,
+    "ndvi_value": 0.6134
+  },
+  {
+    "id": 26,
+    "year": 2025,
+    "month": "January",
+    "state": "uttarakhand",
+    "temperature": 3.91,
+    "rainfall": 30.41,
+    "soilmoisture": 0.325,
+    "ndvi_value": 0.4748
+  },
+  {
+    "id": 27,
+    "year": 2025,
+    "month": "January",
+    "state": "westbengal",
+    "temperature": 18.47,
+    "rainfall": 2.93,
+    "soilmoisture": 0.159,
+    "ndvi_value": 0.4561
   }
 ]
