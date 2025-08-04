@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "year": 2025,
+    "month": "January",
+    "state": "andhrapradesh",
+    "temperature": 22.96,
+    "rainfall": 1.38,
+    "soilmoisture": 0.197,
+    "ndvi_value": 0.52
+  },
+  {
+    "id": 2,
+    "year": 2025,
+    "month": "January",
+    "state": "arunachalpradesh",
+    "temperature": 12.54,
+    "rainfall": 51.80,
+    "soilmoisture": 0.33,
+    "ndvi_value": 0.7366
+  },
+  {
+    "id": 3,
+    "year": 2025,
+    "month": "January",
+    "state": "assam",
+    "temperature": 17.84,
+    "rainfall": 17.52,
+    "soilmoisture": 0.24,
+    "ndvi_value": 0.5351
+  },
+  {
+    "id": 4,
+    "year": 2025,
+    "month": "January",
+    "state": "bihar",
+    "temperature": 16.50,
+    "rainfall": 0.58,
+    "soilmoisture": 0.15,
+    "ndvi_value": 0.5100
+  }
+]
