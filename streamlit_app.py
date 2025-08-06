@@ -31,7 +31,8 @@ if not st.session_state.allow_app:
         Due to limitations in regional boundaries:
         - States like **Telangana and Andhra Pradesh** may appear merged.
         - Some regions such as **POK** may be missing or distorted.
-
+        - Mention month and year 
+    
         **Data Range:** January 2025 – June 2025
         """, icon="⚠️")
 
@@ -214,3 +215,4 @@ with left:
                 except Exception as e:
 
                     st.error(f"❌ AI Agent2 Error: {e}")
+
